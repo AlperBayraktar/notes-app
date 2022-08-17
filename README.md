@@ -39,7 +39,7 @@ cd ./notes-app
 
 ## Tech Stack
 
-**Client:** [React](https://reactjs.org/) ( [NextJS](https://nextjs.org/) ), [Redux (react-redux, toolkit)](https://redux-toolkit.js.org/)
+**Client:** [React](https://reactjs.org/) ( [NextJS](https://nextjs.org/) ), [Ant Design](https://ant.design/), [Redux (react-redux, toolkit)](https://redux-toolkit.js.org/)
 
 **Server:** [NextJS](https://nextjs.org/), [JSON server](https://github.com/typicode/json-server)
 
