@@ -1,0 +1,14 @@
+body {
+    --green: #5bb933;
+    --lightgreen: #6acc40;
+}
+
+.btn-success {
+    background-color: var(--green) !important;
+    border-color: var(--green) !important;
+}
+
+.btn-success:hover {
+    background-color: var(--lightgreen) !important;
+    border-color: var(--lightgreen) !important;
+}
